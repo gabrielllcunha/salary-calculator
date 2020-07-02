@@ -11,4 +11,4 @@ If it is above 4780.01, the discounts are 12%.<br>
 <b>STUDENTS:</b><br>
 Gabriel Cunha (00205174)<br>
 Lucas Gomes (00207553)<br>
-Sandro Souza (00207306)<br>
+Sandro Sousa (00207306)<br>
